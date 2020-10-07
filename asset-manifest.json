@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DemoRedux-Calculator/static/css/main.f7fa8be7.chunk.css",
+    "main.js": "/DemoRedux-Calculator/static/js/main.fcd4e809.chunk.js",
+    "main.js.map": "/DemoRedux-Calculator/static/js/main.fcd4e809.chunk.js.map",
+    "runtime-main.js": "/DemoRedux-Calculator/static/js/runtime-main.75c16e72.js",
+    "runtime-main.js.map": "/DemoRedux-Calculator/static/js/runtime-main.75c16e72.js.map",
+    "static/js/2.b2a192fa.chunk.js": "/DemoRedux-Calculator/static/js/2.b2a192fa.chunk.js",
+    "static/js/2.b2a192fa.chunk.js.map": "/DemoRedux-Calculator/static/js/2.b2a192fa.chunk.js.map",
+    "index.html": "/DemoRedux-Calculator/index.html",
+    "precache-manifest.40f595bbfd506a7ff5ba130f50dcb665.js": "/DemoRedux-Calculator/precache-manifest.40f595bbfd506a7ff5ba130f50dcb665.js",
+    "service-worker.js": "/DemoRedux-Calculator/service-worker.js",
+    "static/css/main.f7fa8be7.chunk.css.map": "/DemoRedux-Calculator/static/css/main.f7fa8be7.chunk.css.map",
+    "static/js/2.b2a192fa.chunk.js.LICENSE.txt": "/DemoRedux-Calculator/static/js/2.b2a192fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c16e72.js",
+    "static/js/2.b2a192fa.chunk.js",
+    "static/css/main.f7fa8be7.chunk.css",
+    "static/js/main.fcd4e809.chunk.js"
+  ]
+}
